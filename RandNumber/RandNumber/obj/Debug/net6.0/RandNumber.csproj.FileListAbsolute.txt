@@ -1,0 +1,15 @@
+C:\Users\achar\source\repos\RandNumber\RandNumber\bin\Debug\net6.0\RandNumber.exe
+C:\Users\achar\source\repos\RandNumber\RandNumber\bin\Debug\net6.0\RandNumber.deps.json
+C:\Users\achar\source\repos\RandNumber\RandNumber\bin\Debug\net6.0\RandNumber.runtimeconfig.json
+C:\Users\achar\source\repos\RandNumber\RandNumber\bin\Debug\net6.0\RandNumber.dll
+C:\Users\achar\source\repos\RandNumber\RandNumber\bin\Debug\net6.0\RandNumber.pdb
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.csproj.AssemblyReference.cache
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.AssemblyInfoInputs.cache
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.AssemblyInfo.cs
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.csproj.CoreCompileInputs.cache
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.dll
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\refint\RandNumber.dll
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.pdb
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\RandNumber.genruntimeconfig.cache
+C:\Users\achar\source\repos\RandNumber\RandNumber\obj\Debug\net6.0\ref\RandNumber.dll
